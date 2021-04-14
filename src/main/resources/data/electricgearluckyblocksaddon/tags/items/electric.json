@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "electricgearluckyblocksaddon:electric_sword",
+    "electricgearluckyblocksaddon:electric_helmet",
+    "electricgearluckyblocksaddon:electric_chestplate",
+    "electricgearluckyblocksaddon:electric_leggings",
+    "electricgearluckyblocksaddon:electric_boots"
+  ]
+}
